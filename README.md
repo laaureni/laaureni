@@ -40,19 +40,19 @@
 </div>
 
 <!-- GitHub Stats + Languages -->
-<table>
+<table style="margin-top: 40px; width: 100%; table-layout: fixed;">
   <tr>
-    <td rowspan="2">
-      <img src="https://github-readme-stats.vercel.app/api?username=laaureni&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=vue" width="450"/>
+    <td rowspan="2" align="center" style="vertical-align: top;">
+      <img src="https://github-readme-stats.vercel.app/api?username=laaureni&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=vue" width="580"/>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laaureni&layout=compact&hide_border=true&title_color=333333&text_color=444444&bg_color=ffe6f2&border_color=ffb6c1" width="360"/>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laaureni&layout=compact&hide_border=true&title_color=333333&text_color=444444&bg_color=ffe6f2&border_color=ffb6c1" width="460"/>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://solved.ac/profile/limsubin">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=limsubin" width="360"/>
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=limsubin" width="460"/>
       </a>
     </td>
   </tr>
