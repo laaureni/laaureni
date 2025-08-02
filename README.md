@@ -40,20 +40,22 @@
 </div>
 
 <!-- GitHub Stats + Languages -->
-<table style="margin-top: 40px; width: 100%; table-layout: fixed;">
-  <tr>
-    <td rowspan="2" align="center" style="vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api?username=laaureni&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=vue" width="580"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laaureni&layout=compact&hide_border=true&title_color=333333&text_color=444444&bg_color=ffe6f2&border_color=ffb6c1" width="460"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://solved.ac/profile/limsubin">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=limsubin" width="460"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center" style="margin-top: 40px;">
+  <table style="width: 100%; max-width: 1300px; table-layout: auto; border-collapse: collapse;">
+    <tr>
+      <td rowspan="2" align="center" style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=laaureni&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=vue" width="1000"/>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laaureni&layout=compact&hide_border=true&title_color=333333&text_color=444444&bg_color=ffe6f2&border_color=ffb6c1" width="540"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <a href="https://solved.ac/profile/limsubin">
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=limsubin" width="540"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
